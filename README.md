@@ -6,24 +6,22 @@
 
 ### <div align="center"> I'm Alexey, a second-year student of RTU MIREA🎓</div>
 - ⚒️ I’m currently working on [Messenger](https://github.com/TAHK235/Messenger)
-- 📖 I’m currently learning __Python__ and __C#__
+- 📖 I’m currently learning __C#__ and __Python__
 - ✨ Main specialty __Information Security__/__Cyber Security__
 
 ### Current goals for 2021/2022
 
-- [ ] Learn C# for Messenger
+- [x] Learn C# for Messenger
 - [ ] Write [Messenger](https://github.com/TAHK235/Messenger) ✉️
-- [ ] Learn __Python__ 🐍
-- [ ] Write __Tic-Tac-Toe__ on Python ❌⭕
-- [ ] Write __Minesweeper__ on Python 🚩💣
-- [ ] Write __Tetris__ on Python 🟥🟧🟨🟩
+- [x] Learn __Python__ as second language 🐍
+- [ ] Learn __C#__ as primary language #️⃣
 - [ ] Learn Linux __Terminal__ 🖥️
 - [ ] Learn __Bash__ 💻
 - [ ] Learn __PowerShell__ 👨🏻‍💻
 - [ ] Learn __Computer Networks__ 🌐
 - [ ] Pass __CCNA__ Exam 📘
-- [ ] Learn Reverse Engineering ⚒️
-- [ ] Learn Kali Linux Tools
+- [ ] Study Reverse Engineering ⚒️
+- [ ] Study Kali Linux Tools
 ___
 
 <div align="center">
