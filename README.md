@@ -19,7 +19,6 @@
 - [ ] Learn __Bash__ 💻
 - [ ] Learn __PowerShell__ 👨🏻‍💻
 - [ ] Learn __Computer Networks__ 🌐
-- [ ] Pass __CCNA__ Exam 📘
 - [ ] Study Reverse Engineering ⚒️
 - [ ] Study Kali Linux Tools
 ___
