@@ -6,7 +6,7 @@
 
 ### <div align="center"> I'm Alexey, a second-year student of RTU MIREA🎓</div>
 - ⚒️ I’m currently working on [Messenger](https://github.com/TAHK235/Messenger)
-- 📖 I’m currently learning __C#__ and __Python__
+- 📖 I’m currently learning __C#__ and __Computer Networks__
 - ✨ Main specialty __Information Security__/__Cyber Security__
 
 ### Current goals for 2021/2022
