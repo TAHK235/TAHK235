@@ -8,17 +8,12 @@
 - 📖 I’m currently learning __C#__ and __Computer Networks__
 - ✨ Main specialty __Information Security__/__Cyber Security__
 ___
-### <div align="center">Current goals for 2021/2022</div>
+### <div align="center">Current goals for 2023</div>
 
-- [x] Learn C# for Messenger
-- [ ] Write [Messenger](https://github.com/TAHK235/Messenger) ✉️
-- [x] Learn __Python__ as second language 🐍
-- [ ] Learn __C#__ as primary language #️⃣
+- [ ] Learn __Computer Networks__ 🌐
 - [ ] Learn Linux __Terminal__ 🖥️
 - [ ] Learn __Bash__ 💻
 - [ ] Learn __PowerShell__ 👨🏻‍💻
-- [ ] Learn __Computer Networks__ 🌐
-- [ ] Study Reverse Engineering ⚒️
 - [ ] Study Kali Linux Tools
 ___
 <p align="center">
@@ -29,7 +24,7 @@ ___
 <a href="https://github.com/"> <img src="https://github.githubassets.com/favicons/favicon-dark.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
-<p align="center"> 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TAHK235&show_icons=true&count_private=true&hide_border=false&border_color=9900FF&theme=github_dark&cache_seconds=1800&title_color=9900FF&icon_color=9900FF" style="width: 50%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAHK235&hide_border=false&border_color=9900FF&layout=compact&theme=github_dark&hide=jupyter%20notebook,html&cache_seconds=1800&title_color=9900FF" style="width: 50%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=tahk235&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&border=9900FF&sideNums=9900FF&ring=9900FF&fire=FFFFFF&stroke=9900FF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=9900FF&currStreakLabel=FFFFFF" style="width: 50%"/>
