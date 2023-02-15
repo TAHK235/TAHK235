@@ -2,10 +2,9 @@
 
 <div align="center"> <img src="https://c.tenor.com/U8cHqFawTIsAAAAC/initial-d-drift.gif" align="center" style="width: 60%" /> </div>
 
-### <div align="center">I'm Alexey, a second-year student of RTU MIREA🎓</div>
+### <div align="center">I'm Alexey, a third-year student of RTU MIREA🎓</div>
 
-- ⚒️ I’m currently working on [Messenger](https://github.com/TAHK235/Messenger)
-- 📖 I’m currently learning __C#__ and __Computer Networks__
+- 📖 I’m currently learning __Computer Networks__ and __Terminal__
 - ✨ Main specialty __Information Security__/__Cyber Security__
 ___
 ### <div align="center">Current goals for 2023</div>
@@ -14,7 +13,7 @@ ___
 - [ ] Learn Linux __Terminal__ 🖥️
 - [ ] Learn __Bash__ 💻
 - [ ] Learn __PowerShell__ 👨🏻‍💻
-- [ ] Study Kali Linux Tools
+- [ ] Study __Kali__ Linux Tools
 ___
 <p align="center">
 <a href="https://dotnet.microsoft.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
